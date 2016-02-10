@@ -1,0 +1,6 @@
+run
+--version
+exit
+run
+git init
+exit
